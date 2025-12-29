@@ -6,7 +6,6 @@ Senior Software Engineer | Team Lead | Frappe / ERPNext Specialist<br><br>7+ yea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-mane-43b96a107) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manepratik7@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
