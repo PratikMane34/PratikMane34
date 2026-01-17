@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PratikMane34&label=Profile%20views&color=0e75b6&style=flat" alt="PratikMane34" /> </p>
 # 💫 About Me:
 Senior Software Engineer | Team Lead | Frappe / ERPNext Specialist<br><br>7+ years of experience building and scaling backend-heavy enterprise systems. <br>Currently working on large e-Governance platforms, focusing on Frappe architecture, performance optimization, and complex reporting.<br><br>Core strengths:<br>- Frappe / ERPNext architecture (5+ years)<br>- Backend & data-heavy systems<br>- Vue.js integration via REST APIs<br>- Mentoring and technical leadership<br><br>Aspiring Frappe Solution Architect with a strong interest in AI-powered automation and agentic systems.<br>
 
